@@ -35,7 +35,7 @@ Open up the link in your browser and click 'install' in order to download the ap
 
 ## Screenshot
 
-Screenshot to JATE app:
+[Screenshot to JATE app](./client/dist/assets/icons/Screenshot%202023-06-12%20at%203.45.09%20PM.png)
 
 ## Technologies
 
